@@ -1,0 +1,15 @@
+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
+
+
+
+my practical
+
+
+
+>git init
+>git add .
+>git commit -m "Aarambh"
+>git remote add origin https://github.com/prathmesh1645/T190318508.git
+>git push -u origin master
+
+
